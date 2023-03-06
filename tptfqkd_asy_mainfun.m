@@ -1,4 +1,4 @@
-function [objv] = tptfqkd_asy_mainfun2(X,l,sigma,N)
+function [objv] = tptfqkd_asy_mainfun(X,l,sigma,N)
 %The main function for calculating the key rate of TP-TFQKD under asymmetric channel
 
 la=(l-100)/2;
