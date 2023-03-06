@@ -1,4 +1,4 @@
-function [objv] = tptfqkd_mainfun2(X,l,sigma,N)
+function [objv] = tptfqkd_mainfun(X,l,sigma,N)
 
 la=l/2;
 lb=l/2;
